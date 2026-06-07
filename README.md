@@ -12,7 +12,7 @@ This is an automated script(AHK) for the apartment trade-in exploit in GTA Onlin
 
 <h1>Installation:</h1>
 
-Download .ahk file and "images" folder. "images" folder NEED to be in same location as .ahk file (e.g. if you put .ahk in folder named "123", "images" also need to be in "123" folder as well).
+Download .ahk file and "images" folder. The "images" folder must be in same location as the .ahk file (e.g. if you put .ahk in folder named "123", "images" also need to be in "123" folder as well).
 
 <h2>Notes:</h2>
 
