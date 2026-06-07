@@ -55,6 +55,11 @@ Feel free to change hotkeys to your own liking.
 
 ![Results](https://github.com/DawTheD/gtaoautoapartment/blob/704d34103d791d98353b01a6eff0478fab891c1c/results.png)
 
+<h2>Known Issues:</h2>
+
+* You may occasionally get a "Purchase Error" on a concurrent run. If this happens, please close the browser (by pressing the X), wait a second, then follow the steps to buy a low-end apartment, once you press "Buy Apartment", the script will automatically continue. An automation to this solution is in the works.
+* If the "Quit" screen does not automatically close once the confirmation buttons show up, please continue by pressing "Esc" on your keyboard. The script will automatically continue. A solution is being worked on.
+
 <h1>Credits:</h1>
 
 * https://github.com/smuglerito/gtaoautoapps (Original Developer)
