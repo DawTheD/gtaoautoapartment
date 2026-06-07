@@ -51,6 +51,9 @@ Numpad5: Exit "panic button"
 
 Feel free to change hotkeys to your own liking.
 
+<h2>Results:</h2>
+
+![Results](https://github.com/DawTheD/gtaoautoapartment/blob/704d34103d791d98353b01a6eff0478fab891c1c/results.png)
 
 <h1>Credits:</h1>
 
