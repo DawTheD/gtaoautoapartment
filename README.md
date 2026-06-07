@@ -48,7 +48,7 @@ Numpad4: Reload "panic button"
 Numpad5: Exit "panic button"
 * Use this to kill script completely.
 
-<br></br>
+
 Feel free to change hotkeys to your own liking.
 
 
