@@ -21,6 +21,7 @@ Download .ahk file and "images" folder. The "images" folder must be in same loca
 * Only slots 2-10 are filled up for two reasons:
 * 1. Some users had an issue where the first slot was "dead" where the slot would keep the correct price of the apartment
 * 2. So that users can actually use an apartment and do heists, without having to rebuy the apartment
+* This version of the script is slower than the original, but this is to ensure that automation is ran smoothly with no errors (e.g. "Purchase Failed")
 
 <h2>Controls:</h2>
 
