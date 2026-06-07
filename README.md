@@ -1,4 +1,4 @@
-This is automated script(AHK) for using apartments trade-in exploit in GTA Online.
+This is an automated script(AHK) for the apartment trade-in exploit in GTA Online.
 
 <h1>Setup Information:</h1>
 
