@@ -53,4 +53,5 @@ Feel free to change hotkeys to your own liking.
 
 
 <h1>Credits:</h1>
+
 * https://github.com/smuglerito/gtaoautoapps (Original Developer)
