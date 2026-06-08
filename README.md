@@ -16,6 +16,7 @@ Download .ahk file and "images" folder. The "images" folder must be in same loca
 
 <h2>Notes:</h2>
 
+* Do not move the mouse once you start a run. This may lead to issues such as the script pressing the wrong buttons.
 * When you do a complete restart of the game, the prices will be back to their correct values, so you'll have to do at least 2 exchange runs
 * ALWAYS run script with admin rights.
 * Only slots 2-10 are filled up for two reasons:
