@@ -26,7 +26,7 @@ Download .ahk file and "images" folder. The "images" folder must be in same loca
 <h2>Controls:</h2>
 
 Numpad0: PREPRATION PHASE
-* This is for setting up all 10 slots to $550k value on each. You HAVE TO run this hotkey when in Story Mode. You run it and wait until completion.
+* This is for setting up slots 2-10 to $550k. You HAVE TO run this hotkey when in Story Mode. You run it and wait until completion.
 
 Numpad1: PAYBACK PHASE
 * This is main hotkey. You use it for "selling apartments"(when all slots are set). You HAVE TO run this hotkey when in Story Mode.
