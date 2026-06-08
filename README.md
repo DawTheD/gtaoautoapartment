@@ -3,7 +3,7 @@ This is an automated script using AutoHotKey v1.1 for the apartment trade-in exp
 <h1>Setup Information:</h1>
 
 1. Must be using GTA 5 E&E (Enhanced & Expanded) version of the game (Script has not been tested on Legacy Edition- feel free to test),
-2. Game set in 1024x768 windowed mode,
+2. Game set in 1024x768 in **windowed** mode,
 3. Game's language set in English.
 4. Safezone size set on 7 ticks(Settings tab, then Display tab; easiest way to set this right - set it on max to the right, then tap left three times).
 5. Phone alerts on "OFF" and Message Frequency set on 1 hour (Settings, Notifications tab).
