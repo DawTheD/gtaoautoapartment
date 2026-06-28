@@ -1,5 +1,9 @@
 This is an automated script using AutoHotKey v1.1 for the apartment trade-in exploit in GTA Online.
 
+If you'd like to donate to me, here is my PayPal:
+
+Https://www.paypal.me/dawgamestudios
+
 <h1>Setup Information:</h1>
 
 1. Must be using GTA 5 E&E (Enhanced & Expanded) version of the game (Script has not been tested on Legacy Edition- feel free to test),
