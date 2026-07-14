@@ -2,7 +2,7 @@ This is an automated script using AutoHotKey v1.1 for the apartment trade-in exp
 
 If you'd like to donate to me, here is my PayPal:
 
-Https://www.paypal.me/dawgamestudios
+https://www.paypal.me/dawgamestudios
 
 <h1>Setup Information:</h1>
 
