@@ -1,3 +1,6 @@
+# Update 21/07/2026
+It seems that R* have patched the Apartment Trade-In exploit, or at least they have made it harder to execute. Any issues about the script not glitching the apartments correctly will be closed immediately.
+<h1> </h1>
 This is an automated script using AutoHotKey v1.1 for the apartment trade-in exploit in GTA Online.
 
 If you'd like to donate to me, here is my PayPal:
